@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 40px;
+  background: #000;
+  border-bottom: 2px solid orange;
+}
+
+h1 {
+  font-size: 50px;
+  color: orange;
+}
+
+.hero {
+  padding: 60px 20px;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: orange;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.features {
+  padding: 40px;
+  background: #1a1a1a;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+footer {
+  padding: 20px;
+  font-size: 12px;
+  color: gray;
+}
